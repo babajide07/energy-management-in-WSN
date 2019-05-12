@@ -1,4 +1,4 @@
-# energy-management-in-WSN-using-PISAE
+# Energy-management-in-WSN-using-PISAE
 
 ## Dependencies
  - [x] Pytorch >= 0.4.0
