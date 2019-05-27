@@ -13,3 +13,6 @@
 - [x] Run main_covertype.py to train PISAE on CoverType data
 
 ## To cite PISAE paper:
+
+B. O. Ayinde and A. Y. Barnawi, "Energy Conservation in Wireless Sensor Networks Using Partly-Informed Sparse Autoencoder," in IEEE Access, vol. 7, pp. 63346-63360, 2019. doi: 10.1109/ACCESS.2019.2917322
+
